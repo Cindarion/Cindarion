@@ -6,7 +6,7 @@ I don't just write code — I sculpt it into tools, apps, and little digital exp
 
 - 🚀 I’m currently working on my pet projects:
   - 🛒 An online grocery store — building the full stack from scratch, check it out [here](https://github.com/Cindarion/grocery-store)
-  - 🤖 A Telegram Mini App — focusing on efficient communication between front-end and back-end to ensure              smooth UX and fast responses
+  - 🤖 A Telegram Mini App — focusing on efficient communication between front-end and back-end to ensure smooth UX and fast responses
 - 🌱 I’m currently learning TypeScript, refining back-end skills with NestJS, and crafting smoother, smarter user experiences.
 - 🤝 I’m looking to collaborate on web apps, bots, or tools that solve real problems
 
