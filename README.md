@@ -4,9 +4,9 @@ I'm Valera — a builder of ideas, curious problem-solver, and occasional pixel 
 
 I don't just write code — I sculpt it into tools, apps, and little digital experiments that (hopefully) make life smoother or at least more fun. 
 
-- 🚀 I’m currently working on my pet projects:
-  - 🛒 An online grocery store — building the full stack from scratch, check it out [here](https://github.com/Cindarion/grocery-store)
-  - 🤖 A Telegram Mini App — focusing on efficient communication between front-end and back-end to ensure smooth UX and fast responses
+- 🚀 I’m currently working on:
+  - 🛒 An online grocery store (pet-project) — building the full stack from scratch, check it out [here](https://github.com/Cindarion/grocery-store)
+  - 🤖 A commercial Telegram Mini App (private) — developed with a full-stack team, focusing on efficient communication between front-end and back-end for a smooth UX and fast response times.
 - 🌱 I’m currently learning TypeScript, refining back-end skills with NestJS, and crafting smoother, smarter user experiences.
 - 🤝 I’m looking to collaborate on web apps, bots, or tools that solve real problems
 
